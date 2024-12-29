@@ -16,7 +16,7 @@ This is a Historical Places App built with React, Redux Toolkit, RTK Query, Redu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/smyaseen/historical-places-react
+   git clone https://github.com/smyaseen/historical-places-react.git
    cd historical-places-app
    ```
 
