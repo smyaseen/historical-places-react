@@ -1,0 +1,76 @@
+{
+  "places": [
+    {
+      "id": "1",
+      "name": "Great Wall of China",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/500px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "description": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials."
+    },
+    {
+      "id": "2",
+      "name": "Machu Picchu",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+      "description": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru."
+    },
+    {
+      "id": "3",
+      "name": "Pyramids of Giza",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+      "description": "The Pyramids of Giza are ancient pyramid structures located in Giza, Egypt."
+    },
+    {
+      "id": "4",
+      "name": "Taj Mahal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+      "description": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra."
+    },
+    {
+      "id": "5",
+      "name": "Colosseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/540px-Colosseo_2020.jpg",
+      "description": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy."
+    },
+    {
+      "id": "6",
+      "name": "Eiffel Tower",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+      "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+    },
+    {
+      "id": "7",
+      "name": "Statue of Liberty",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg",
+      "description": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor."
+    },
+    {
+      "id": "8",
+      "name": "Christ the Redeemer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/440px-Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "description": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil."
+    },
+    {
+      "id": "9",
+      "name": "Angkor Wat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20171126_Angkor_Wat_4712_DxO.jpg/540px-20171126_Angkor_Wat_4712_DxO.jpg",
+      "description": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world."
+    },
+    {
+      "id": "10",
+      "name": "Sydney Opera House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/500px-Sydney_Australia._%2821339175489%29.jpg",
+      "description": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, Australia."
+    },
+    {
+      "id": "11",
+      "name": "Mount Everest",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg/576px-Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg",
+      "description": "Mount Everest is Earth's highest mountain above sea level, located in the Himalayas."
+    },
+    {
+      "id": "12",
+      "name": "Petra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Treasury_petra_crop.jpeg/400px-Treasury_petra_crop.jpeg",
+      "description": "Petra is a historical and archaeological city in southern Jordan famous for its rock-cut architecture."
+    }
+  ]
+}
